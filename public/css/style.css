@@ -1,0 +1,672 @@
+
+
+.heading{
+    position: absolute;
+    width: 100%;
+    height: 35px;
+    left: 0px;
+    top: 0px;
+    
+    background: #CCCCCC;
+    border-radius: 0px;
+    text-decoration: none;
+}
+
+.info{   
+position: absolute;
+width: 188px;
+height: 24px;
+left: 325px;
+top: 6px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 24px;
+color: #717070;
+}
+
+.top-menu{
+    position: absolute;
+    width: 59px;
+    height: 18px;
+    left: 1010px;
+    top: 7px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 18px;
+    /* identical to box height, or 164% */
+    
+    text-align: right;
+    color: #000000;
+    text-decoration: none;
+    list-style: none;
+    
+}
+a:link {
+    text-decoration: none!important;
+  }
+
+.top-menu1{
+    position: absolute;
+    width: 59px;
+    height: 18px;
+    left: 1090px;
+    top: 7px;
+    text-decoration: none;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 18px;
+    text-align: right; 
+    color: #000000;
+    text-decoration: none;
+    list-style: none;
+}
+
+.top-menu2{
+    position: absolute;
+    width: 59px;
+    height: 18px;
+    left: 1170px;
+    top: 7px;
+    text-decoration: none;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 18px;
+    text-align: right; 
+    color: #000000;
+    text-decoration: none;
+    text-decoration: none;
+    list-style: none;
+}
+
+.logo{
+    position: absolute;
+width: 325px;
+height: 57px;
+left: 20px;
+top: 55px;
+border-radius: 0px;
+}
+
+.info-box {
+    position: relative;
+    float: left;
+    padding-top: 5px;
+    padding-left: 22px;
+    line-height: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.location{
+    position: absolute;
+width: 126px;
+height: 20px;
+left: 629px;
+top: 60px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+
+color: #333333;
+}
+
+.location1{
+    position: absolute;
+width: 212px;
+height: 20px;
+left: 629px;
+top: 80px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+color: #EB5310;
+}
+
+.location2{
+    position: absolute;
+width: 91px;
+height: 20px;
+left: 863px;
+top: 60px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+color: #333333;
+}
+
+.location3{
+    position: absolute;
+width: 208px;
+height: 20px;
+left: 863px;
+top: 80px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+
+color: #EB5310;
+}
+
+.location4{
+    position: absolute;
+width: 137px;
+height: 20px;
+left: 1104px;
+top: 60px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+
+color: #333333;
+}
+
+.location5{
+    position: absolute;
+width: 119px;
+height: 20px;
+left: 1104px;
+top: 80px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+
+color: #EB5310;
+
+}
+.navbar{
+position: absolute;
+width: 100%;
+height: 49px;
+left: 0px;
+top: 160px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+background: #EB5310;
+border-radius: 0px;
+}
+
+.navbar ul li{
+    list-style-type:none ;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.navbar ul li a:hover{
+    color: #000000;
+    transition: .3s;
+}
+
+
+.background{
+    position: absolute;
+width: 100%;
+height: 454px;
+left: 0px;
+top: 208px;
+background: url(https://ngn.org.np/uploads/sliders/aced1a1f34878d7a0b9a8686571653c0811e44d3.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+  display: flex;
+}
+
+.orangebox{
+    position: absolute;
+width: 466px;
+height: 318px;
+left: 275px;
+top: 559px;
+
+background: url(.png), #FB5E1C;
+border-radius: 0px;
+}
+.inner-box{
+
+}
+
+.text-uppercase{
+    position: absolute;
+width: 193px;
+height: 18px;
+left: 38px;
+top: 0px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 18px;
+/* identical to box height, or 90% */
+
+text-transform: uppercase;
+
+color: #ffffff;
+}
+
+.news{
+    position: absolute;
+width: 294px;
+height: 18px;
+left: 35px;
+top: 40px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+
+
+color: #ffffff;
+}
+
+
+.blackbox{
+    position: absolute;
+width: 504px;
+height: 318px;
+left: 740px;
+top: 559px;
+
+background: url(.jpg), #454545;
+border-radius: 0px;
+}
+
+.htext{
+    position: absolute;
+    width: 275px;
+    height: 18px;
+    left: 40px;
+    top: 0px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 18px;
+    /* identical to box height, or 90% */
+    
+    
+    color: #ffffff;
+
+}
+
+.list-one{
+    position: absolute;
+width: 363px;
+height: 40px;
+left: 10px;
+top: 52px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+
+color: #FFFFFF;
+}
+
+.paragraph{
+    position: absolute;
+width: 940px;
+height: 65px;
+left: 275px;
+top: 959px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+/* or 180% */
+
+
+color: #717070;
+}
+
+.drugbox{
+    position: absolute;
+width: 80px;
+height: 89px;
+left: 275px;
+top: 1070px;
+
+}
+.druglogo{
+    position: absolute;
+width: 80px;
+height: 89px;
+left: 0px;
+top: 0px;
+
+background: url(https://ngn.org.np/images/icons/icon-1.png);
+border-radius: 0px;
+}
+
+.drughead{
+    position: absolute;
+width: 155px;
+height: 36px;
+left: 385px;
+top: 1065px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+text-transform: uppercase;
+
+color: #25292F;
+}
+
+.drugpara{
+    position: absolute;
+width: 186px;
+height: 87px;
+left: 385px;
+top: 1115px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+color: #717070;
+}
+
+.hivpara{
+    position: absolute;
+width: 191px;
+height: 130px;
+left: 718px;
+top: 1097px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+/* or 180% */
+
+
+color: #717070;
+}
+
+.hivbox{
+    position: absolute;
+width: 80px;
+height: 89px;
+left: 608px;
+top: 1070px;
+}
+.hivimg{
+    position: absolute;
+width: 80px;
+height: 89px;
+left: 0px;
+top: 0px;
+
+background: url(https://ngn.org.np/images/icons/icon-2.png);
+border-radius: 0px;
+
+
+border-radius: 0px;
+}
+
+.hivtopic{
+    position: absolute;
+width: 167px;
+height: 18px;
+left: 718px;
+top: 1064px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height, or 120% */
+
+text-transform: uppercase;
+
+color: #25292F;
+}
+
+.combox{
+    position: absolute;
+width: 80px;
+height: 89px;
+left: 941px;
+top: 1070px;
+}
+
+.comimg{
+    position: absolute;
+width: 80px;
+height: 89px;
+left: 0px;
+top: 0px;
+
+background: url(https://ngn.org.np/images/icons/icon-3.png);
+border-radius: 0px;
+}
+
+.community{
+    position: absolute;
+width: 114px;
+height: 36px;
+left: 1051px;
+top: 1065px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+text-transform: uppercase;
+
+color: #25292F;
+}
+
+.compara{
+    position: absolute;
+width: 193px;
+height: 108px;
+left: 1051px;
+top: 1115px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+/* or 180% */
+
+
+color: #717070;
+}
+
+.address{
+    position: absolute;
+width: 95px;
+height: 26px;
+left: 275px;
+top: 25px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height, or 140% */
+
+letter-spacing: 1px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.alladdress{
+    position: absolute;
+width: 114px;
+height: 20px;
+left: 305px;
+top: 70px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 20px;
+/* identical to box height, or 182% */
+
+
+color: #C9C9C9;
+}
+
+.project{
+    
+position: absolute;
+width: 141px;
+height: 26px;
+left: 552px;
+top: 25px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height, or 140% */
+
+letter-spacing: 1px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.allproject{
+    position: absolute;
+width: 288px;
+height: 24px;
+left: 552px;
+top: 70px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 20px;
+/* identical to box height, or 182% */
+
+
+color: #C9C9C9;
+}
+
+.latest{
+    position: absolute;
+width: 139px;
+height: 26px;
+left: 941px;
+top: 25px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height, or 140% */
+
+letter-spacing: 1px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.alllatest{
+    position: absolute;
+width: 220px;
+height: 36px;
+left: 971px;
+top: 70px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+
+
+color: #FFFFFF;
+}
+
+.naulo{
+    position: absolute;
+width: 182px;
+height: 20px;
+left: 669px;
+top: 270px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+text-align: center;
+
+color: #C9C9C9;
+}
