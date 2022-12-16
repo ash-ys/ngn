@@ -15,3 +15,4 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/',[App\Http\Controllers\SiteController::class, 'getHome']);
+Route::get('/About',[App\Http\Controllers\SiteController::class, 'getAboutUs']);

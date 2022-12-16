@@ -9,4 +9,9 @@ class SiteController extends Controller
     public function getHome(){
         return view('template');
     }
+
+    
+    public function getAboutUs(){
+        return view('templatetwo');
+    }
 }
