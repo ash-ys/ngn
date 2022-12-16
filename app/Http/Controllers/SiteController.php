@@ -7,11 +7,14 @@ use Illuminate\Http\Request;
 class SiteController extends Controller
 {
     public function getHome(){
-        return view('template');
+        return view('home');
     }
 
     
     public function getAboutUs(){
-        return view('templatetwo');
+        return view('about');
+    }
+    public function getProjects(){
+        return view('projects');
     }
 }

@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
+    
     <title>Document</title>
 </head>
 
@@ -35,9 +36,9 @@
     </div>
     <div class="navbar">
         <ul>
-            <li><a href="">Home</a></li>
-            <li><a href="">About Us</a></li>
-            <li><a href="">Projects</a></li>
+            <li><a href="http://localhost:8000/">Home</a></li>
+            <li><a href="http://localhost:8000/about">About Us</a></li>
+            <li><a href="http://localhost:8000/projects">Projects</a></li>
             <li><a href="">News and events</a></li>
             <li><a href="">Reports</a></li>
             <li><a href="">Our team</a></li>
@@ -45,50 +46,9 @@
         </ul>
     </div>
 
-    <div class="background"></div>
-    <div class="orangebox">
-        <div class="inner-box">
-            <h2 class="text-uppercase">News and Events</h2>
-            <ul class="news">
-                <li>Naulo Ghumti Nepal's 21st AGM & 11th Convention.</li>
-                <li> Table Tennis Basic Orientation to Drug Rehabilitation Personnel.</li>
-                <li> Interaction program on Gender Based Violence to mark 16 Days of Activism against Gender-Based Violence.</li>
-                <li> Joint Monitoring Visit by Nepal Government Home Ministry and District Administrative Office, Kaski</li>
-                <li> Relief support to Rural Municipalities during pandemic COVID-19</li>
-            </ul>
-        </div>
-    </div>
-    <div class="blackbox">
-        <h2 class="htext">We do work with for</h2>
-        <ul class=list-one>
-            <li>Current drug users, recovering users, their spouses and family.</li>
-            <li>HIV infected and affected people.</li>
-            <li>Female Sex Workers and their spouses.</li>
-            <li>Children, youth & women.</li>
-            <li>Poor and marginalized community people in rural and urban slum areas.</li>
-        </ul>
+    <!-- pageko content -->
+    @yield('content1')
 
-    </div>
-
-    <p class="paragraph">Organisationally Naulo Ghumti–Nepal is a non profitable and non-governmental organisation [NGO] working in various districts across the country. It is registered in Kaski District Administration Office. It is affiliated with SWC and also approved by Drug Control Division under Ministry of Home Affairs.. It has a very good linkage and coordination with Nepal government agencies and civil society organizations at national, regional and district level as well.</p>
-
-    <div class="drugbox">
-        <div class="druglogo"></div>
-    </div>
-    <div class="drughead">Drug Treatment & Rehabilitation</div>
-    <div class="drugpara">Rehabilitation, or rehab, can be used to help a person recover from addictions, injuries, and even physical or mental illnesses.</div>
-    <div class="hivpara">HIV prevention might refer to practices done to prevent the spread of HIV/AIDS. HIV prevention practices may be done by individuals to protect "their own health".</div>
-
-    <div class="hivbox">
-        <div class="hivimg"></div>
-    </div>
-    <div class="hivtopic">HIV/AIDS Prevention</div>
-
-    <div class="combox">
-        <div class="comimg"></div>
-    </div>
-    <div class="community">Community Development</div>
-    <div class="compara">Community development is a way of strengthening civil society by prioritising the actions of communities, and their perspectives.</div>
     <div style="position: absolute;
                 width: 1519px;
                 height: 300px;

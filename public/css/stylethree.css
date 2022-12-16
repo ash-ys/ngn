@@ -1,0 +1,48 @@
+.intro{
+    position: absolute;
+    width: 100%;
+    height: 216px;
+    left: 0px;
+    top: 209px;
+    
+    background: url(https://ngn.org.np/images/background/page-title-bg.jpg);
+    border-radius: 0px;
+
+    background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+}
+
+.introduction{
+    position: absolute;
+    width: 342px;
+    height: 18px;
+    left: 589px;
+    top: 75px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 18px;
+    /* identical to box height, or 86% */
+    
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #ffffff;
+
+}
+
+.box{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 330px;
+    height: 25px;
+    left: 595px;
+    top: 84px;
+    
+    border: 2px solid #ffffff;
+    border-radius: 0px;
+}
