@@ -39,7 +39,7 @@
             <li><a href="http://localhost:8000/">Home</a></li>
             <li><a href="http://localhost:8000/about">About Us</a></li>
             <li><a href="http://localhost:8000/projects">Projects</a></li>
-            <li><a href="">News and events</a></li>
+            <li><a href="http://localhost:8000/news">News and events</a></li>
             <li><a href="">Reports</a></li>
             <li><a href="">Our team</a></li>
             <li><a href="">Photo gallery</a></li>

@@ -17,3 +17,4 @@ use Illuminate\Support\Facades\Route;
 Route::get('/',[App\Http\Controllers\SiteController::class, 'getHome']);
 Route::get('/about',[App\Http\Controllers\SiteController::class, 'getAboutUs']);
 Route::get('/projects',[App\Http\Controllers\SiteController::class, 'getProjects']);
+Route::get('/news',[App\Http\Controllers\SiteController::class, 'getNews']);

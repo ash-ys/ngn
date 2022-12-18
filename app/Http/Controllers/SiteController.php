@@ -17,4 +17,7 @@ class SiteController extends Controller
     public function getProjects(){
         return view('projects');
     }
+    public function getNews(){
+        return view('news');
+    }
 }

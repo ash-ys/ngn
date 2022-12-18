@@ -46,3 +46,259 @@ background-repeat:no-repeat;
     border: 2px solid #ffffff;
     border-radius: 0px;
 }
+
+.rectangle{
+    box-sizing: border-box;
+
+position: absolute;
+width: 720px;
+height: 325px;
+left: 275px;
+top: 300px;
+
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+border-radius: 3px;
+}
+
+.tabletennis{
+    position: absolute;
+width: 293px;
+height: 293px;
+background: url(https://ngn.org.np/uploads/projects/50f3ceed4aee1c56cffa4a1e7e2bf749f98f2780.jpg);
+border-radius: 0px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.words h1{
+    position: absolute;
+width: 267px;
+height: 18px;
+left: 400px;
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 18px;
+/* identical to box height, or 106% */
+
+text-transform: uppercase;
+
+color: #25292F;
+
+}
+
+.words p{
+    position: absolute;
+width: 315px;
+height: 54px;
+left: 400px;
+top: 50px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* or 164% */
+
+
+color: #717070;
+
+}
+
+.readbox{
+    position: absolute;
+width: 137px;
+height: 42px;
+left: 400px;
+top: 200px;
+
+border: 2px solid #EFEFEF;
+border-radius: 20px;
+}
+.readbox h1{
+width: 73px;
+height: 24px;
+right: 661px;
+top: 592px;
+padding-left: 30px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 24px;
+/* identical to box height, or 200% */
+
+text-transform: uppercase;
+
+color: #25292F;
+
+}
+
+
+.rectangle1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 720px;
+height: 325px;
+left: 275px;
+top: 700px;
+
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+border-radius: 3px;
+}
+
+.tabletennis1{
+    position: absolute;
+width: 293px;
+height: 293px;
+background: url(https://ngn.org.np/uploads/projects/d61b0ec4f7c969c12d106c8c793a57fd1b47db4e.png);
+border-radius: 0px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.words1 h1{
+    position: absolute;
+width: 267px;
+height: 18px;
+left: 400px;
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 18px;
+/* identical to box height, or 106% */
+
+text-transform: uppercase;
+
+color: #25292F;
+
+}
+
+.words1 p{
+    position: absolute;
+width: 315px;
+height: 54px;
+left: 400px;
+top: 50px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* or 164% */
+
+
+color: #717070;
+
+}
+
+.readbox1{
+    position: absolute;
+width: 137px;
+height: 42px;
+left: 400px;
+top: 200px;
+
+border: 2px solid #EFEFEF;
+border-radius: 20px;
+}
+.readbox1 h1{
+width: 73px;
+height: 24px;
+right: 661px;
+top: 592px;
+padding-left: 30px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 24px;
+/* identical to box height, or 200% */
+
+text-transform: uppercase;
+
+color: #25292F;
+
+}
+
+.search{
+    box-sizing: border-box;
+
+position: absolute;
+width: 220px;
+height: 42px;
+left: 1100px;
+top: 300px;
+
+background: #FFFFFF;
+border: 1px solid #EB5310;
+border-radius: 21px;
+}
+
+.searchbox{
+    position: absolute;
+width: 50px;
+height: 42px;
+left: 170px;
+
+
+background: #EB5310;
+border-radius: 0px 21px 21px 0px;
+}
+
+.news{
+width: 400px;
+height: 737px;
+left: 0px;
+top: 60px;
+
+background: #ffffff;
+}
+
+.sidebar-title{
+
+}
+
+.sidebar-title h3{
+position: absolute;
+width: 300px;
+height: 18px;
+padding-left: 10px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height, or 120% */
+
+text-transform: uppercase;
+
+color: #1A1A1A;
+}
+
+.post h3{
+    position: absolute;
+width: 218px;
+height: 37px;
+top:30px;
+padding-left: 10px;
+font-family: 'Merriweather';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 18px;
+/* or 140% */
+
+
+color: #292929;
+}
